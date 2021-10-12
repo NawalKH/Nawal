@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nawal/static/css/main.f26db283.chunk.css",
+    "main.js": "/Nawal/static/js/main.08a88fb5.chunk.js",
+    "main.js.map": "/Nawal/static/js/main.08a88fb5.chunk.js.map",
+    "runtime-main.js": "/Nawal/static/js/runtime-main.97a67a3e.js",
+    "runtime-main.js.map": "/Nawal/static/js/runtime-main.97a67a3e.js.map",
+    "static/css/2.2aa38b9c.chunk.css": "/Nawal/static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.aaf3dc9c.chunk.js": "/Nawal/static/js/2.aaf3dc9c.chunk.js",
+    "static/js/2.aaf3dc9c.chunk.js.map": "/Nawal/static/js/2.aaf3dc9c.chunk.js.map",
+    "index.html": "/Nawal/index.html",
+    "static/css/2.2aa38b9c.chunk.css.map": "/Nawal/static/css/2.2aa38b9c.chunk.css.map",
+    "static/css/main.f26db283.chunk.css.map": "/Nawal/static/css/main.f26db283.chunk.css.map",
+    "static/js/2.aaf3dc9c.chunk.js.LICENSE.txt": "/Nawal/static/js/2.aaf3dc9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a67a3e.js",
+    "static/css/2.2aa38b9c.chunk.css",
+    "static/js/2.aaf3dc9c.chunk.js",
+    "static/css/main.f26db283.chunk.css",
+    "static/js/main.08a88fb5.chunk.js"
+  ]
+}
