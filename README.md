@@ -5,7 +5,7 @@
   Nawal - v1
 </h1>
 <p align="center">
-  The first iteration of <a href="" target="_blank">Nawal.me</a> built with React.js 
+  The first iteration of <a href="https://nawalkh.github.io/Nawal/" target="_blank">Nawal</a> built with React.js 
 </p>
 
 
